@@ -1,0 +1,35 @@
+.head {
+    border: 5px solid black;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #24c23f;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: px solid #16d2d9;
+}
+.garis-saya {
+    border: 2px solid #16d2d9;
+    margin: 10px 0;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.job-title {
+    color: #999999;
+    font-weight: bold;
+}
+
+a:link, a:visited {
+    color: #16d2d9;
+}
+
+a:hover {
+    text-decoration: none;
+}
+    
